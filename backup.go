@@ -53,7 +53,7 @@ func copyDir(src, dst string) error {
 	return nil
 }
 
-func main() {
+func Backup() {
 	homeDir, err := os.UserHomeDir()
 	if err != nil {
 		fmt.Println("Error retrieving user home directory:", err)

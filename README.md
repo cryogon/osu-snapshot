@@ -1,5 +1,5 @@
 # Osu Snapshot
-take a snapshot of osu!
+takes a snapshot of osu!
 
 copies
 - Replays
@@ -13,9 +13,13 @@ so i can uninstall the game and take a break indefinately (or potentially quit w
 - go
 
 ## Steps to use
+### Backup
 - update osuPath variable in `backup.go` if needed
-- run `go run backup.go` to generate a backup
+- run `./bin/osu-snapshot backup` to generate a backup
 - upload the backup folder to any cloud storage :)
+
+### Restore
+- tba
 
 
 ## WIP
