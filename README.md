@@ -19,7 +19,9 @@ so i can uninstall the game and take a break indefinately (or potentially quit w
 - upload the backup folder to any cloud storage :)
 
 ### Restore
-- tba
+- Working Mirrors (as of 03 Nov 2025)
+  - Osu Direct: `https://osu.direct/api/d/${beatmapsetID}`
+  - Neriyan: `https://nerinyan.moe/d/${beatmapsetID}`
 
 
 ## WIP
